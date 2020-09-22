@@ -16,3 +16,6 @@ build/
 web-build/
 CarbonTrackerFe.xcworkspace
 Podfile.lock
+node_modules
+node_modules/*
+.expo
